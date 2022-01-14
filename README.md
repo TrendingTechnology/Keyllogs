@@ -44,8 +44,8 @@ optional arguments:
 #
 
 <p align="center"> 
-  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Bidouffe/Ziper">
-  <img alt="star" src="https://img.shields.io/github/stars/Bidouffe/Ziper">
-  <img alt="commit" src="https://img.shields.io/github/last-commit/Bidouffe/Ziper">
-  <img alt="license" src="https://img.shields.io/github/license/Bidouffe/Ziper">
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Bidouffe/Keyllogs">
+  <img alt="star" src="https://img.shields.io/github/stars/Bidouffe/Keyllogs">
+  <img alt="commit" src="https://img.shields.io/github/last-commit/Bidouffe/Keyllogs">
+  <img alt="license" src="https://img.shields.io/github/license/Bidouffe/Keyllogs">
 </p>
